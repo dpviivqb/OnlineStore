@@ -59,7 +59,6 @@ public class UserService {
         return new UserDTO(user);
     }
 
-
     /**
      * Authenticate user login
      */
